@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RIMBERIO</title>
+    <link rel="stylesheet" href="./main.css">
+    <link rel="stylesheet" href="./lib/bootstrap.min.css">
+    <style>
+    </style>
+</head>
+
+<body>
+    <header id="header">
+        <div class="navbar navbar-expand-lg">
+            <a href="#"><img src="./imagem/2.png" alt=""></a>
+            <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#menu">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="container">
+                <nav class="collapse navbar-collapse justify-content-end" id="menu">
+                    <ul class="nav navbar-nav nav-pills ">
+                        <li class="nav-item">
+                            <a class="nav-link active" href="#inicio">Inicio</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#carros">Carros</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#motos">Motos</a>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </header>
+    <div data-bs-spy="scroll" data-bs-target="#header">
+        <div class="container" id="inicio">
+            <div id="carousel-exemplo" class="carousel slide" data-bs-ride="carousel" >
+                <div class="carousel-inner">
+                    <div data-bs-interval="3000"  class="carousel-item active">
+                        <a href="#"><img src="./imagem/img 1.jpeg" class="img-carousel"></a>
+                    </div>
+                    <div data-bs-interval="3000" class="carousel-item">
+                        <a href="#"><img src="./imagem/img 2.jpeg" class="img-carousel"></a>
+                    </div>
+                    <div data-bs-interval="3000" class="carousel-item">
+                        <a href="#"><img src="./imagem/img 4.jpeg" class="img-carousel"></a>
+                    </div>
+                    <button type="button" data-bs-target="#carousel-exemplo" data-bs-slide="prev"
+                        class="carousel-control-prev">
+                        <span class="carousel-control-prev-icon"></span>
+                    </button>
+                    <button type="button" data-bs-target="#carousel-exemplo" data-bs-slide="next"
+                        class="carousel-control-next">
+                        <span class="carousel-control-next-icon"></span>
+                    </button>
+                </div>
+                <div class="carousel-indicators">
+                    <button type="button" data-bs-target="#carousel-exemplo" class="active"
+                        data-bs-slide-to="0"></button>
+                    <button type="button" data-bs-target="#carousel-exemplo" data-bs-slide-to="1"></button>
+                    <button type="button" data-bs-target="#carousel-exemplo" data-bs-slide-to="2"></button>
+                </div>
+            </div>
+        </div>
+        <section id="carros">
+            <div class="container">
+                <h1 class="titulo">Carros</h1>
+                <div class="row">
+                    <div class="col-4">
+                        <article class="card">
+                            <img src="./imagem/img 5.jpeg" alt="">
+                            <div class="card-body">
+                                <h4>Nissan Skyline R34 GTR</h4>
+                                <p class="card-text">
+                                    V6, Biturbo, Potência: 280 cv, Câmbio: Manual de 5 velocidades.
+                                </p>
+                                <div class="info-car">
+                                    <img src="./imagem/icon 2.webp" alt="">
+                                    <h6>1998/1999</h6>
+                                    <img src="./imagem/icon 1.png" alt="">
+                                    <h6>50.245</h6>
+                                </div>
+                                <div class="price">
+                                    <strong>R$950.000,00</strong>
+                                </div>
+                                <a href="" class="btn btn-success">Ver Parcelas</a>
+                            </div>
+                        </article>
+                    </div>
+                    <div class="col-4">
+                        <article class="card">
+                            <img src="./imagem/img 3.jpeg" alt="">
+                            <div class="card-body">
+                                <h4>SUBARU IMPREZA</h4>
+                                <p class="card-text">
+                                    V6, Biturbo, Potência: 280 cv, Câmbio: Manual de 5 velocidades.
+                                </p>
+                                <div class="info-car">
+                                    <img src="./imagem/icon 2.webp" alt="">
+                                    <h6>1998/1999</h6>
+                                    <img src="./imagem/icon 1.png" alt="">
+                                    <h6>50.245</h6>
+                                </div>
+                                <div class="price">
+                                    <strong>R$950.000,00</strong>
+                                </div>
+                                <a href="" class="btn btn-success">Ver Parcelas</a>
+                            </div>
+                        </article>
+                    </div>
+                    <div class="col-4">
+                        <article class="card">
+                            <img src="./imagem/img 8.jpeg" alt="">
+                            <div class="card-body">
+                                <h4>NISSAN SILVIA S15</h4>
+                                <p class="card-text">
+                                    V6, Biturbo, Potência: 280 cv, Câmbio: Manual de 5 velocidades.
+                                </p>
+                                <div class="info-car">
+                                    <img src="./imagem/icon 2.webp" alt="">
+                                    <h6>1998/1999</h6>
+                                    <img src="./imagem/icon 1.png" alt="">
+                                    <h6>50.245</h6>
+                                </div>
+                                <div class="price">
+                                    <strong>R$950.000,00</strong>
+                                </div>
+                                <a href="" class="btn btn-success">Ver Parcelas</a>
+                            </div>
+                        </article>
+                    </div>
+                    <div class="col-4">
+                        <article class="card">
+                            <img src="./imagem/img 6.jpeg" alt="">
+                            <div class="card-body">
+                                <h4>TOYOTA SUPRA MK4</h4>
+                                <p class="card-text">
+                                    V6, Biturbo, Potência: 280 cv, Câmbio: Manual de 5 velocidades.
+                                </p>
+                                <div class="info-car">
+                                    <img src="./imagem/icon 2.webp" alt="">
+                                    <h6>1998/1999</h6>
+                                    <img src="./imagem/icon 1.png" alt="">
+                                    <h6>50.245</h6>
+                                </div>
+                                <div class="price">
+                                    <strong>R$950.000,00</strong>
+                                </div>
+                                <a href="" class="btn btn-success">Ver Parcelas</a>
+                            </div>
+                        </article>
+                    </div>
+                    <div class="col-4">
+                        <article class="card">
+                            <img src="./imagem/img 7.jpeg" alt="">
+                            <div class="card-body">
+                                <h4>MITSUBISHI LANCER EVO X</h4>
+                                <p class="card-text">
+                                    V6, Biturbo, Potência: 280 cv, Câmbio: Manual de 5 velocidades.
+                                </p>
+                                <div class="info-car">
+                                    <img src="./imagem/icon 2.webp" alt="">
+                                    <h6>1998/1999</h6>
+                                    <img src="./imagem/icon 1.png" alt="">
+                                    <h6>50.245</h6>
+                                </div>
+                                <div class="price">
+                                    <strong>R$950.000,00</strong>
+                                </div>
+                                <a href="" class="btn btn-success">Ver Parcelas</a>
+                            </div>
+                        </article>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section id="motos" data-bs-spy="scroll" data-bs-target="#header">
+            <div class="container">
+                <h1 class="titulo">Motos</h1>
+                <div class="row">
+                    <div class="col-4">
+                        <article class="card">
+                            <img src="./imagem/moto 1.jpeg" alt="">
+                            <div class="card-body">
+                                <h4>BMW S1000 XR</h4>
+                                <p class="card-text">
+                                    V6, Biturbo, Potência: 280 cv, Câmbio: Manual de 5 velocidades.
+                                </p>
+                                <div class="info-car">
+                                    <img src="./imagem/icon 2.webp" alt="">
+                                    <h6>1998/1999</h6>
+                                    <img src="./imagem/icon 1.png" alt="">
+                                    <h6>50.245</h6>
+                                </div>
+                                <div class="price">
+                                    <strong>R$950.000,00</strong>
+                                </div>
+                                <a href="" class="btn btn-success">Ver Parcelas</a>
+                            </div>
+                        </article>
+                    </div>
+                    <div class="col-4">
+                        <article class="card">
+                            <img src="./imagem/moto 2.jpeg" alt="">
+                            <div class="card-body">
+                                <h4>TRIMUMPH BONNEVILLE</h4>
+                                <p class="card-text">
+                                    V6, Biturbo, Potência: 280 cv, Câmbio: Manual de 5 velocidades.
+                                </p>
+                                <div class="info-car">
+                                    <img src="./imagem/icon 2.webp" alt="">
+                                    <h6>1998/1999</h6>
+                                    <img src="./imagem/icon 1.png" alt="">
+                                    <h6>50.245</h6>
+                                </div>
+                                <div class="price">
+                                    <strong>R$950.000,00</strong>
+                                </div>
+                                <a href="" class="btn btn-success">Ver Parcelas</a>
+                            </div>
+                        </article>
+                    </div>
+                    <div class="col-4">
+                        <article class="card">
+                            <img src="./imagem/moto 3.jpeg" alt="">
+                            <div class="card-body">
+                                <h4>DUCATI DIAVEL</h4>
+                                <p class="card-text">
+                                    V6, Biturbo, Potência: 280 cv, Câmbio: Manual de 5 velocidades.
+                                </p>
+                                <div class="info-car">
+                                    <img src="./imagem/icon 2.webp" alt="">
+                                    <h6>1998/1999</h6>
+                                    <img src="./imagem/icon 1.png" alt="">
+                                    <h6>50.245</h6>
+                                </div>
+                                <div class="price">
+                                    <strong>R$950.000,00</strong>
+                                </div>
+                                <a href="" class="btn btn-success">Ver Parcelas</a>
+                            </div>
+                        </article>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+    <footer>
+        <a href="#"><img src="./imagem/2.png" alt=""></a>
+        <h5>2025 © RIMBERIO - Todos os Direito Reservados</h5>
+    </footer>
+
+    <script src="./lib/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>

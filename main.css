@@ -1,0 +1,169 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+header img {
+    width: 100px;
+    margin-left: 16px;
+}
+
+.navbar-nav .nav-item .nav-link.active {
+    color: #fff;
+}
+
+.navbar-nav .nav-item .nav-link {
+    color: #fff;
+}
+
+.nav-link {
+    text-align: center;
+}
+
+header {
+    position: sticky;
+    top: 0;
+    left: 0;
+    background-color: #333333;
+    z-index: 100;
+}
+
+.nav-pills .nav-link.nav-link.active{
+    background-color: #767676;
+}
+
+.navbar .navbar-toggler {
+    background-color: #767676;
+}
+
+.img-carousel {
+    width: 100%;
+    height: 85vh;
+    object-fit: cover;
+    border-radius: 0px 0px 20px 20px;
+}
+
+.info-car {
+    display: flex;
+}
+
+.info-car img {
+    width: 20px;
+    height: 20px;
+}
+
+.info-car h6 {
+    margin: 0px 20px 0px 7px;
+}
+
+.price {
+    font-size: 24px;
+    margin: 15px 0;
+}
+
+.col-4 {
+    margin-bottom: 20px;
+}
+
+#carros .titulo {
+    margin-bottom: 20px;
+    border-bottom: 4px solid #333333;
+    color: #333333;
+}
+
+#motos .titulo {
+    margin-bottom: 20px;
+    border-bottom: 4px solid #333333;
+    color: #333333;
+}
+
+#carros {
+    padding-top: 60px;
+}
+
+#motos {
+    padding-bottom: 20px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    background-color: #333333;
+}
+
+footer img {
+    width: 80px;
+}
+
+footer h5 {
+    color: #fff;
+    margin: 10px 15px;
+    font-size: 16px;
+}
+
+
+@media screen and (max-width: 767px) {
+
+    .row .col-4 {
+        width: 100%;
+    }
+
+    .img-carousel {
+        width: 100%;
+        height: 100%;
+    }
+
+    #carros {
+        padding-top: 60px;
+    }
+
+    #motos {
+        padding-top: 60px;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+
+    .row .col-4 {
+        width: 50%;
+    }
+
+    .img-carousel {
+        width: 100%;
+        height: 100%;
+    }
+
+    #carros {
+        padding-top: 60px;
+    }
+
+    #motos {
+        padding-top: 60px;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+
+    .row .col-4 {
+        width: 33.33%;
+    }
+
+    .img-carousel {
+        width: 100%;
+        height: 85vh;
+        object-fit: cover;
+        border-radius: 0px 0px 20px 20px;
+    }
+
+    #carros {
+        padding-top: 60px;
+    }
+
+    #motos {
+        padding-top: 60px;
+        padding-bottom: 80px;
+    }
+}
