@@ -1,6 +1,6 @@
 ## 🚗 Site Concessionária - Página Inicial
 
-[🇺🇸 English Version](READM.md) | [🇧🇷 Versão em Português](PT-BR-README.md)
+[🇺🇸 English Version](README.md) | [🇧🇷 Versão em Português](#)
 
 ---
 
