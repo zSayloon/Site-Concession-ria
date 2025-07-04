@@ -22,7 +22,7 @@ Você pode visualizar o site ao vivo clicando no link abaixo:
 
 ## 📸 Capturas de Tela
 
-![Página Inicial](https://github.com/zSayloon/Site-Concession-ria/blob/main/imagem/screenshot1.png)
+![Página Inicial](imagem/Screenshot_1.png)
 
 ## 📬 Contato
 
