@@ -1,34 +1,90 @@
-# Site-Concessionária
+## 🚗 Site Concessionária - Página Inicial
 
-Este projeto é um protótipo de site para uma concessionária de veículos, desenvolvido com HTML e CSS puros. O objetivo é apresentar uma estrutura básica de um site institucional para uma concessionária, com informações sobre os veículos disponíveis, contato e notícias automotivas.
+[🇺🇸 English Version](#) | [🇧🇷 Versão em Português](#)
+
+---
+
+![Site Concessionária](imagem/Screenshot_1.png)
+
+Uma landing page institucional para uma concessionária de veículos, desenvolvida como exercício prático utilizando **HTML5** e **CSS3**.
+
+## 📋 Índice
+
+- [📌 Sobre o Projeto](#-sobre-o-projeto)
+- [🚀 Tecnologias Utilizadas](#-tecnologias-utilizadas)
+- [💻 Como Executar](#-como-executar)
+- [📷 Imagens e Layout](#-imagens-e-layout)
+- [📬 Contato](#-contato)
+- [📜 Licença](#-licença)
+
+---
+
+## 📌 Sobre o Projeto
+
+O **Site Concessionária** é um projeto de site estático para uma loja fictícia de veículos. A página apresenta uma estrutura limpa, organizada e moderna, simulando uma loja com catálogo de carros, área institucional e formas de contato.
+
+## 🔹 Recursos principais:
+
+✅ Design moderno e responsivo  
+✅ Organização por seções (catálogo, contato, etc.)  
+✅ Layout intuitivo e navegável  
+✅ Estilo adaptado para prática profissional
+
+---
 
 ## 🚀 Tecnologias Utilizadas
 
-- HTML5
-- CSS3
+Este projeto foi construído utilizando:
 
-## 📂 Estrutura do Projeto
+- **HTML5**
+- **CSS3**
 
-- `index.html`: Página inicial com informações gerais.
-- `main.css`: Estilos principais para o layout e design.
-- `lib/`: Pasta para bibliotecas ou recursos adicionais.
-- `imagem/`: Pasta contendo as imagens utilizadas no site.
+---
 
-## 🌐 Acesse o Site
+## 💻 Como Executar
 
-Você pode visualizar o site ao vivo clicando no link abaixo:
+1️⃣ Clone o repositório:  
+```bash
+git clone https://github.com/zSayloon/Site-Concession-ria.git
+```
+2️⃣ Acesse a pasta do projeto:
+```bash
+cd Site-Concession-ria
+```
+3️⃣ Abra o arquivo index.html no seu navegador.
 
-👉 [site-concession-ria.vercel.app](https://site-concession-ria.vercel.app)
+> 💡 Dica: Use a extensão Live Server no VSCode para uma experiência em tempo real durante o desenvolvimento.
 
-## 📸 Capturas de Tela
+## 📷 Imagens e Layout
 
-![Página Inicial](imagem/Screenshot_1.png)
-![](imagem/Screenshot_2.png)
-![](imagem/Screenshot_3.png)
+Abaixo estão algumas capturas de tela do site em funcionamento:
+
+<p align="center">
+  <img src="imagem/Screenshot_1.png" alt="Página Inicial" width="80%">
+</p>
+
+<p align="center">
+  <img src="imagem/Screenshot_2.png" alt="Catálogo de Carros" width="80%">
+</p>
+
+<p align="center">
+  <img src="imagem/Screenshot_3.png" alt="Catálogo de Motos" width="80%">
+</p>
+
+--- 
 
 ## 📬 Contato
 
-Para mais informações ou dúvidas, entre em contato:
+📧 **Email:** eduardo.f5@outlook.com
+🔗 **LinkedIn:** [Eduardo Falabriti](https://www.linkedin.com/in/eduardo-falabriti-b-ferreira-537241310/)
 
-- E-mail: eduardo.f5@outlook.com
-- LinkedIn: [https://www.linkedin.com/in/eduardo-falabriti-b-ferreira-537241310/)
+---
+
+## 📜 Licença
+Este projeto foi desenvolvido com fins educacionais e não possui fins comerciais.
+
+---
+ 
+🕹️ **Desenvolvido como prática de HTML e CSS por Eduardo Falabriti**
+
+
