@@ -1,6 +1,6 @@
 ## 🚗 Car Dealership Website - Landing Page
 
-[🇧🇷 Versão em Português](PT-BR-README.md) | [🇺🇸 English Version](README.md)
+[🇺🇸 English Version](#) | [🇧🇷 Versão em Português](PT-BR-README.md)
 
 ---
 
