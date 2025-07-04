@@ -23,6 +23,8 @@ Você pode visualizar o site ao vivo clicando no link abaixo:
 ## 📸 Capturas de Tela
 
 ![Página Inicial](imagem/Screenshot_1.png)
+![](imagem/Screenshot_2.png)
+![](imagem/Screenshot_3.png)
 
 ## 📬 Contato
 
