@@ -23,7 +23,7 @@ Uma landing page institucional para uma concessionária de veículos, desenvolvi
 
 O **Site Concessionária** é um projeto de site estático para uma loja fictícia de veículos. A página apresenta uma estrutura limpa, organizada e moderna, simulando uma loja com catálogo de carros, área institucional e formas de contato.
 
-## 🔹 Recursos principais:
+## 🔹 Recursos principais
 
 ✅ Design moderno e responsivo  
 ✅ Organização por seções (catálogo, contato, etc.)  
