@@ -1,90 +1,93 @@
-## 🚗 Site Concessionária - Página Inicial
+## 🚗 Car Dealership Website - Landing Page
 
-[🇺🇸 English Version](#) | [🇧🇷 Versão em Português](#)
-
----
-
-![Site Concessionária](imagem/Screenshot_1.png)
-
-Uma landing page institucional para uma concessionária de veículos, desenvolvida como exercício prático utilizando **HTML5** e **CSS3**.
-
-## 📋 Índice
-
-- [📌 Sobre o Projeto](#-sobre-o-projeto)
-- [🚀 Tecnologias Utilizadas](#-tecnologias-utilizadas)
-- [💻 Como Executar](#-como-executar)
-- [📷 Imagens e Layout](#-imagens-e-layout)
-- [📬 Contato](#-contato)
-- [📜 Licença](#-licença)
+[🇧🇷 Versão em Português](README.md) | [🇺🇸 English Version](#)
 
 ---
 
-## 📌 Sobre o Projeto
+![Car Dealership](imagem/Screenshot_1.png)
 
-O **Site Concessionária** é um projeto de site estático para uma loja fictícia de veículos. A página apresenta uma estrutura limpa, organizada e moderna, simulando uma loja com catálogo de carros, área institucional e formas de contato.
+A responsive and clean landing page for a fictional car dealership, developed as a practical exercise using **HTML5** and **CSS3**.
 
-## 🔹 Recursos principais
+## 📋 Table of Contents
 
-✅ Design moderno e responsivo  
-✅ Organização por seções (catálogo, contato, etc.)  
-✅ Layout intuitivo e navegável  
-✅ Estilo adaptado para prática profissional
+- [📌 About the Project](#-about-the-project)
+- [🚀 Technologies Used](#-technologies-used)
+- [💻 How to Run](#-how-to-run)
+- [📷 Screenshots](#-screenshots)
+- [📬 Contact](#-contact)
+- [📜 License](#-license)
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+## 📌 About the Project
 
-Este projeto foi construído utilizando:
+The **Car Dealership Website** is a static web project designed for a fictional vehicle store. It features a clean, organized, and modern layout simulating a professional car sales website, including vehicle listings, company info, and contact options.
 
-- **HTML5**
+## 🔹 Main Features
+
+✅ Modern and responsive design  
+✅ Well-structured sections (catalog, contact, etc.)  
+✅ Simple and intuitive layout  
+✅ Ideal for HTML/CSS practice and portfolio use
+
+---
+
+## 🚀 Technologies Used
+
+This project was built using:
+
+- **HTML5**  
 - **CSS3**
 
 ---
 
-## 💻 Como Executar
+## 💻 How to Run
 
-1️⃣ Clone o repositório:  
+1️⃣ Clone the repository:  
 ```bash
 git clone https://github.com/zSayloon/Site-Concession-ria.git
 ```
-2️⃣ Acesse a pasta do projeto:
+
+2️⃣ Navigate into the project folder:  
 ```bash
 cd Site-Concession-ria
 ```
-3️⃣ Abra o arquivo index.html no seu navegador.
 
-> 💡 Dica: Use a extensão Live Server no VSCode para uma experiência em tempo real durante o desenvolvimento.
+3️⃣ Open the `index.html` file in your browser.
 
-## 📷 Imagens e Layout
+> 💡 Tip: Use the **Live Server** extension in VSCode to preview changes in real time during development.
 
-Abaixo estão algumas capturas de tela do site em funcionamento:
+---
+
+## 📷 Screenshots
+
+Below are some screenshots of the site in action:
 
 <p align="center">
-  <img src="imagem/Screenshot_1.png" alt="Página Inicial" width="80%">
+  <img src="imagem/Screenshot_1.png" alt="Home Page" width="80%">
 </p>
 
 <p align="center">
-  <img src="imagem/Screenshot_2.png" alt="Catálogo de Carros" width="80%">
+  <img src="imagem/Screenshot_2.png" alt="Cars Catalog" width="80%">
 </p>
 
 <p align="center">
-  <img src="imagem/Screenshot_3.png" alt="Catálogo de Motos" width="80%">
+  <img src="imagem/Screenshot_3.png" alt="Motorcycles Catalog" width="80%">
 </p>
 
---- 
+---
 
-## 📬 Contato
+## 📬 Contact
 
-📧 **Email:** eduardo.f5@outlook.com
+📧 **Email:** eduardo.f5@outlook.com  
 🔗 **LinkedIn:** [Eduardo Falabriti](https://www.linkedin.com/in/eduardo-falabriti-b-ferreira-537241310/)
 
 ---
 
-## 📜 Licença
-Este projeto foi desenvolvido com fins educacionais e não possui fins comerciais.
+## 📜 License
+
+This project was created for educational purposes only and has no commercial license.
 
 ---
- 
-🕹️ **Desenvolvido como prática de HTML e CSS por Eduardo Falabriti**
 
-
+🕹️ **Developed as an HTML & CSS practice project by Eduardo Falabriti**
